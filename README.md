@@ -1,4 +1,4 @@
-# gbbleague2026..github.io
+# gbbleague2026.github.io
 <!doctype html>
 <html lang="en">
 <head>
